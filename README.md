@@ -5,5 +5,19 @@
 
 ### Download the [model](https://drive.google.com/file/d/1mNsNor3rb7JuQIzJPKUuRL7ubW6OVeAS/view?usp=sharing) 
 
+ ## Citations
+If our code helps your research or work, please consider citing our paper.
+The following is a BibTeX reference:
+
+```
+@ARTICLE{10536725,
+  author={Gao, Hu and Yang, Jingfan and Wang, Ning and Yang, Jing and Zhang, Ying and Dang, Depeng},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Learning Accurate Features for Super-Resolution Spacecraft ISAR Imaging}, 
+  year={2024},
+}
+
+'''
+
 ## Contact
 Should you have any question, please contact two_bits@163.com
