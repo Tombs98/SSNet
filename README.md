@@ -5,7 +5,7 @@
 
 ### Download the [model](https://drive.google.com/file/d/1mNsNor3rb7JuQIzJPKUuRL7ubW6OVeAS/view?usp=sharing) 
 
- ## Citations
+## Citations
 If our code helps your research or work, please consider citing our paper.
 The following is a BibTeX reference:
 
@@ -17,7 +17,7 @@ The following is a BibTeX reference:
   year={2024},
 }
 
-'''
+```
 
 ## Contact
 Should you have any question, please contact two_bits@163.com
